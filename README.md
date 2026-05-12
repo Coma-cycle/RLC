@@ -1,6 +1,6 @@
 hi!
-this is a simpole project i did back when we first learnt about circuits with AC inputs, 
-and this is specificly desined for a simple RLC parrallel circuit with an ac current input , 
+this is a simpole project i did back when we first learnd about circuits with AC inputs, 
+and this is specificaly desined for a simple RLC parrallel circuit with an ac current input , 
 and the scrpipt has been writen in python , 
 
 the libraries used are : numpy, matplotlib
